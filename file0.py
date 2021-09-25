@@ -1,2 +1,2 @@
 print("hello World")
-print("Add a statemennt") 
+print("Add a statement")
